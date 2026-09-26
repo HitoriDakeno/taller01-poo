@@ -1,4 +1,4 @@
-TALLER 01: SISTEMA DE CONTROL DE GRUPO POO
+<img width="1211" height="713" alt="image" src="https://github.com/user-attachments/assets/a12c7d52-2001-4f6f-897a-46c265f24c28" />TALLER 01: SISTEMA DE CONTROL DE GRUPO POO
 
 Descripción del proyecto
 
@@ -22,7 +22,7 @@ Taller01/
 ├── Alumnos.txt
 ├── Solicitudes.txt
 └── README.md
-
+```
 Paquete principal:
 
 taller01
