@@ -13,7 +13,7 @@ Integrante:
 - David Villalobos - 21.646.173-8 - ICCI - GifHub: HitoriDakeno
 
 Estructura del proyecto:
-
+```text
 Taller01/
 ├── src/
 │   └── taller01/
